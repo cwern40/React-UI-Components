@@ -1,0 +1,22 @@
+.large {
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    line-height: 100px;
+    color: white;
+    background-color: crimson;
+}
+
+.number {
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    line-height: 100 px;
+}
